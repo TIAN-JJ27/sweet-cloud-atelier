@@ -2,7 +2,7 @@
 
 ## 项目阶段
 
-当前为 M0 文档仓库，无业务代码、运行时依赖或构建命令。正式许可证及范围确认前，本仓库不声称已完成开放许可发布。请先讨论较大变动，不将新增素材或代码视为已经得到许可或批准。
+当前为 M0 文档仓库，无业务代码、运行时依赖或构建命令。当前技术文档与配置按 ASSET_LICENSES.md 的清单采用 MIT，署名为 TIAN-JJ27 (IRIS)。新增代码或素材须注明来源并更新授权清单；原创美术只有确权并登记后才适用 CC BY 4.0。请先讨论较大变动，不把个人附件纳入代码许可。
 
 ## 修改与版本记录
 
@@ -29,4 +29,4 @@
 
 ## English summary
 
-This repository is at the documentation-only M0 milestone. Keep changes focused, update references, and review larger changes in pull requests. Do not commit private drafts, credentials, internal materials, or unapproved personal content. Only claim implemented features or verified results when evidence exists. License scope and attribution remain pending. Runtime, testing, and build instructions will be added after implementation is approved.
+This repository is at the documentation-only M0 milestone. Keep changes focused, update references, and review larger changes in pull requests. Do not commit private drafts, credentials, internal materials, or unapproved personal content. Only claim implemented features or verified results when evidence exists. Current original documentation and configuration are licensed under MIT with attribution to TIAN-JJ27 (IRIS). New files require a scope and provenance review; personal materials are excluded. Runtime, testing, and build instructions will be added after implementation is approved.

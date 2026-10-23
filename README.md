@@ -64,13 +64,17 @@ Changes can be tracked through commits and reviewed in pull requests. This is so
 
 Private résumé drafts, unapproved personal material, internal company information, credentials, and third-party assets without permission must not be committed. Keep private review materials outside the repository.
 
-## 许可状态 / Licensing status
+## 许可 / Licensing
 
-正式许可证尚未落地 / Formal license files are pending.
+授权署名：**TIAN-JJ27 (IRIS)**。
 
-已选定的方案是：有权授权的原创代码及其配套技术文档拟采用 MIT；逐项确认并纳入清单的原创美术拟采用 CC BY 4.0。权利人署名及具体授权清单仍待确认，当前不声称已完成开放许可发布。个人履历、肖像、论文、专利材料、证书和第三方素材不自动纳入该方案。
+- 当前已登记的原创技术文档与配置采用 [MIT License](LICENSE)。
+- 后续经确权并逐项登记的原创美术采用 [CC BY 4.0](LICENSES/CC-BY-4.0.txt)；当前没有已发布美术素材。
+- [授权范围清单](ASSET_LICENSES.md) 记录适用文件；[个人内容边界](CONTENT_RIGHTS.md) 与 [第三方声明](THIRD_PARTY_NOTICES.md) 记录排除项和来源。
 
-The intended scheme is MIT for eligible original code and accompanying technical documentation, and CC BY 4.0 for individually cleared and listed original artwork. Attribution and scope still require confirmation; no formal license files have been issued yet. Personal résumé material and third-party content are not automatically covered.
+个人简历、证书、论文、专利材料、肖像及第三方文件不因该方案而自动获得开放授权。
+
+The original technical documentation and configuration listed in ASSET_LICENSES.md are licensed under MIT by TIAN-JJ27 (IRIS). Individually cleared and registered original artwork will use CC BY 4.0; no artwork is included yet. Personal content and third-party materials are not automatically covered.
 
 ## 下一阶段 / Next milestone
 
